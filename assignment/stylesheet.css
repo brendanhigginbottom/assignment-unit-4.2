@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+} 
+
+body {
+    background-color: blanchedalmond;
+}
+header {
+    background-color: lemonchiffon;
+    margin: 20px auto;
+}
+
+/*.info {
+
+}
+*/
+
+h2 {
+    color: steelblue;
+    background-color: seashell;
+    margin: 20px auto;
+}
+
+#bike {
+    height: 500px;
+    width: 550px;
+}
