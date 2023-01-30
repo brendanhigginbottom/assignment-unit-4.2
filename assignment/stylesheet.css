@@ -6,24 +6,28 @@
 
 body {
     background-color: blanchedalmond;
+    border: solid black 5px;
+    text-align: center;
 }
+
 header {
     background-color: lemonchiffon;
     margin: 20px auto;
 }
 
-/*.info {
-
-}
-*/
-
 h2 {
     color: steelblue;
     background-color: seashell;
-    margin: 20px auto;
+    margin: 10px auto;
 }
 
 #bike {
     height: 500px;
     width: 550px;
+}
+
+h3 {
+    background-color: thistle;
+    color: midnightblue;
+    margin: 10px auto;
 }
